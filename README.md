@@ -1,1 +1,1 @@
-# BaekJoonStudy
+# CodingTestStudy
